@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "HARRISVILLE" }, "geometry": { "type": "Point", "coordinates": [ -71.677144936210667, 41.966227783454698 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "CHEPACHET" }, "geometry": { "type": "Point", "coordinates": [ -71.671245592113763, 41.915027945093364 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "NORTH FOSTER" }, "geometry": { "type": "Point", "coordinates": [ -71.720603521836992, 41.784719097895206 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "HOPE VALLEY" }, "geometry": { "type": "Point", "coordinates": [ -71.711259159757319, 41.511153744937936 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "WYOMING" }, "geometry": { "type": "Point", "coordinates": [ -71.682548560739718, 41.513343564093688 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "CHARLESTOWN" }, "geometry": { "type": "Point", "coordinates": [ -71.642474879979503, 41.383235448848986 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "CAROLINA" }, "geometry": { "type": "Point", "coordinates": [ -71.661099563657146, 41.454361813462356 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "SHANNOCK" }, "geometry": { "type": "Point", "coordinates": [ -71.637535153527963, 41.448154892795081 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "NOOSENECK" }, "geometry": { "type": "Point", "coordinates": [ -71.661594223530315, 41.609441210653351 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "WICKFORD JCT" }, "geometry": { "type": "Point", "coordinates": [ -71.490828151946616, 41.577915740124887 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "WEST KINGSTON" }, "geometry": { "type": "Point", "coordinates": [ -71.558125271103236, 41.484098325895836 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Town", "NAME": "PORTSMOUTH" }, "geometry": { "type": "Point", "coordinates": [ -71.249894247832358, 41.600841243989713 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Town", "NAME": "MIDDLETOWN" }, "geometry": { "type": "Point", "coordinates": [ -71.292049941035927, 41.519422524472731 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "LITTLE COMPTON" }, "geometry": { "type": "Point", "coordinates": [ -71.171284818683944, 41.509920184853137 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "BLOCK ISLAND" }, "geometry": { "type": "Point", "coordinates": [ -71.5594356377201, 41.17366032322208 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "TIVERTON" }, "geometry": { "type": "Point", "coordinates": [ -71.184501477311883, 41.645140823175041 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "EXETER" }, "geometry": { "type": "Point", "coordinates": [ -71.533486973742001, 41.550949770074986 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "COVENTRY" }, "geometry": { "type": "Point", "coordinates": [ -71.699274265011056, 41.691294020585538 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "BRADFORD" }, "geometry": { "type": "Point", "coordinates": [ -71.747659836484246, 41.400955327657712 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "PASCOAG" }, "geometry": { "type": "Point", "coordinates": [ -71.702284215188044, 41.955709415727412 ] } },
+{ "type": "Feature", "properties": { "Cntr_Class": "Village", "NAME": "NASONVILLE" }, "geometry": { "type": "Point", "coordinates": [ -71.615356417421097, 41.979450892743813 ] } }
+]
+}
